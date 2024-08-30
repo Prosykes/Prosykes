@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prosykes
+- 👋 Hi, I’m Jeffrey King, but i prefer Jeff or Prosykes
 - 👀 I’m interested in coding, hacking and trading Forex
 - 🌱 I’m currently learning HTML and Python
 - 💞️ I’m looking to collaborate on any simple projects to learn, and grow to bigger ones.
